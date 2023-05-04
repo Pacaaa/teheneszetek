@@ -1,0 +1,8 @@
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\bin\Debug\teheneszetek.exe.config
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\bin\Debug\teheneszetek.exe
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\bin\Debug\teheneszetek.pdb
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\obj\Debug\teheneszetek.csproj.AssemblyReference.cache
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\obj\Debug\teheneszetek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\obj\Debug\teheneszetek.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\obj\Debug\teheneszetek.exe
+C:\Users\Patrik\Desktop\teheneszetek\teheneszetek\obj\Debug\teheneszetek.pdb
